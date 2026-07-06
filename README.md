@@ -1,6 +1,8 @@
 # Project Baz
 A homemade gaming handheld, made from an old laptop. My entire journey in creating it, bumps and all.
 
+I'll be updating this readme and this repository as the project develops.
+
 ---
 ## Background
 In this project, I will be turning my dear, trusty old Alienware gaming laptop from my first years in college into a gaming handheld that can (hopefully) beat out a Steam Deck. It has a Ryzen 7 CPU and an RTX 2060 Mobile, which benchmarks at around 110 FPS on GTAV, wnich is similar to the kinds of games I will be trying to run on this thing. It'll be a hell of a ride from start to finish, but hopefully it'll be worth it. 
@@ -19,3 +21,14 @@ Either way, This project came about as a response to the increase in steam deck 
 
 ## Parts List
 I will be starting with a 2019 model of the Alienware M15 R1 containing a Ryzen 7 CPU and an RTX 2060 Mobile, and I will absolutely be mangling it beyond all reason to cram it into a much smaller form factor. I will also be using an Arduino Micro to be able to control the entire laptop with only a homemade controller, built using custom PCBs from PCBWay with hall effect joysticks, PS5 bumpers and triggers, and xbox rumble motors. This thing will be a Frankenstein of a build because this thing is for my personal use and me want what me want. This is NOT a guide, please don't contact me trying to ask about half the shit I do because even if I wanted to tell you, I couldn't. Some (most) of this will be done while hopped up on caffeine, or sleep deprived, or both.
+
+| Part | Count |
+|------|-------|
+| Alienware M15 R1 | 1x |
+| WaveShare 10.1in Display | 1x |
+| 1F22N 60Whr Battery | 1x |
+| Thermalright AXP90-X47 Full Copper | 1x |
+| Hall Effect Joystick | 2x |
+| Xbox 360 Rumble Motor Pair | 1x |
+| PS5 Trigger Button Spring | 2x |
+| PS5 Thumbstick Caps | 2x |
