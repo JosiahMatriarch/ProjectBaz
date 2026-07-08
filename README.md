@@ -27,7 +27,7 @@ I will be starting with a 2019 model of the Alienware M15 R1 containing a Ryzen 
 | Alienware M15 R1 | 1x |
 | WaveShare 10.1in Display | 1x |
 | 1F22N 60Whr Battery | 1x |
-| Thermalright AXP90-X47 Full Copper | 1x |
+| Thermalright AXP90-X36 | 1x |
 | Hall Effect Joystick | 2x |
 | Xbox 360 Rumble Motor Pair | 1x |
 | PS5 Trigger Button Spring | 2x |
