@@ -32,3 +32,4 @@ I will be starting with a 2019 model of the Alienware M15 R1 containing a Ryzen 
 | Xbox 360 Rumble Motor Pair | 1x |
 | PS5 Trigger Button Spring | 2x |
 | PS5 Thumbstick Caps | 2x |
+| Copper Heat Pipe 0.3x0.8x8cm | 4x |
